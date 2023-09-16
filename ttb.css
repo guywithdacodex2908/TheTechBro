@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,200;0,400;0,500;1,400;1,500&display=swap');
+    
+body {
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(233, 233, 233);
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.navigation {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3 {
+   color: rgb(6, 6, 82);  
+}
+
+.project-container {
+   align-items: center;
+}
+
+p, h3 {
+    padding-left: 20px;
+}
